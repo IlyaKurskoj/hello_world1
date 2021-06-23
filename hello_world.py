@@ -1,6 +1,1 @@
-print('123')
-print("rat")
-print("rat")
-print("rat")
-print("rat")
-print("rat4")
+print('121')
